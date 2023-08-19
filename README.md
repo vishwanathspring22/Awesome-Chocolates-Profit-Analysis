@@ -15,3 +15,5 @@ Concepts covered in Excel:
 <li> Formatting options </li>
 </ul>
 
+![Methodology](https://github.com/vishwanathspring22/Awesome-Chocolates-Profit-Analysis-in-MS-Excel/blob/main/Dynamic%20Sales%20Report.png?raw=true)
+
